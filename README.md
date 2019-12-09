@@ -1,8 +1,9 @@
 # Sample Binary Data
 
-## Stock Prices File Format
+This repo contains a sample data file (IBM.dat) that contains 
+historical stock prices.
 
-This custom stock prices file format consists of the followings:
+The file format is as follows:
 
 1. The header is just a 64-bit integer that represents the number of records in this file.
 2. The rest of the file contains stock price records.  
