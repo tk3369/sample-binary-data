@@ -13,3 +13,5 @@ Each record contains the followings:
 - Bytes 8-15: floating point number, representing the stock price
 - Bytes 16-23: integer, representing the trade volume 
 
+Additional Notes:
+- The file was generated from a [Little Endian](https://en.wikipedia.org/wiki/Endianness) system.
